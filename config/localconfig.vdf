@@ -1,0 +1,260 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{d104585d-478a-4717-889d-fb30a5c54a8a}"
+		"DefaultAudioDeviceName"		"Динамики (Realtek(R) Audio)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{b42479c6-61c6-426d-9e2a-cf1f81552515}"
+		"DefaultMicrophoneName"		"Набор микрофонов (Realtek(R) Audio)"
+	}
+	"friends"
+	{
+		"1514243495"
+		{
+			"NameHistory"
+			{
+				"0"		"Andrey Pepper"
+			}
+			"avatar"		"c5ecafe7bb523593e74ec06b1b63192d7e77da23"
+			"name"		"Andrey Pepper"
+		}
+		"PersonaName"		"Andrey Pepper"
+		"communitypreferences"		"18fed38db2062000280130013800"
+		"contentdescriptorpreferences"		""
+		"1699187729"
+		{
+			"name"		"pipin42"
+			"NameHistory"
+			{
+				"0"		"pipin42"
+			}
+		}
+		"103582791469272938"
+		{
+			"name"		"Marm0k Squad Party"
+			"tag"		"_MARMOK_"
+			"avatar"		"5f6c3c0f68f74cf900f958acdb47819cf9cba92f"
+		}
+		"1705633681"
+		{
+			"name"		"Beluga_BTSYT"
+			"NameHistory"
+			{
+				"0"		"Beluga_BTSYT"
+			}
+			"avatar"		"5c78fe93b8626a9f4af9f729b6d25c74baa792ca"
+		}
+		"1634046864"
+		{
+			"name"		"aleksa100787"
+			"NameHistory"
+			{
+				"0"		"aleksa100787"
+			}
+			"avatar"		"e71180db8ea57f8ad06b073ebd153955e004afbf"
+		}
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09a785415a000000004800"
+		"Signature"		"0d625d65cabef4996539bb7c0c3dcc0d30a999b45d7d0d3701a740bd546530d95d3584345cc17941209b59dfc1b02ef38aac720f53f4a3e6333931ae596e3fc418de2dfccbadc8ebe7d0616d1a3f29a0d15bce34b3c375e55bf378393ad6962b9d19514911432cc226820f51b243527afd57b1312135ea0ff73550fb5fb565ef3f5cf58f57a27e24ddd0626eed6825093aab2d8beb6623194ad887063a67560e52101dffdc4c2ba09be7324410b30d9dba19b3137b5b58944b093cf80b5ff7d3fdb9874d2c278ab29d7c777349d78fddb6499811da3e071cfae0fc43935d19558a7edb20405ed8ba475ed6114fbfd0486aa692ae4dd215b38037cee757ba2d40"
+	}
+	"SharedAuth"
+	{
+		"id"		"923450230"
+		"AuthData"		"00676f59faaafce1e897f51e21f8cf65bae8098636b405450c217365dda71528"
+	}
+	"Offline"
+	{
+		"Ticket"		"08a78b86d20515df7e8266"
+		"Signature"		"9a8f19da74f0b6266f0884af66a2ebda9957abd33913d8e8b517dc00b0b7fe703a68ad44a10bcd96894bb61157c2a344e7206099033dff21e181b0bf938e4560e827669a959f8fb0042a89ca505f02fe2096c83332f2e09d972a1ae024f3f827720908c0bc051deced5921b257508ce5d747801e08f6ffa95cccec1aea959aaa29b577ff663a95ca16e1d191cfc6b5495e78b90c15410180edfc7d6252f38657170e256f162c90f940b18dae6f3aa895499f323663be2ca6b446a5fa490cef2340e4a3e46478ec3a063c117e87f945ccb17e3ec5d249b7cb29d420c4f89fc6f9b8592d26b69e184e2f4c6f2c17494f859558592c4bd0211a3945ff01fe27fba3"
+		"EncryptedTicket"		"0a201129cab4d53bab1364aa5233b3be4e7dac54c583de27201e850503023a0c66021280029a8f19da74f0b6266f0884af66a2ebda9957abd33913d8e8b517dc00b0b7fe703a68ad44a10bcd96894bb61157c2a344e7206099033dff21e181b0bf938e4560e827669a959f8fb0042a89ca505f02fe2096c83332f2e09d972a1ae024f3f827720908c0bc051deced5921b257508ce5d747801e08f6ffa95cccec1aea959aaa29b577ff663a95ca16e1d191cfc6b5495e78b90c15410180edfc7d6252f38657170e256f162c90f940b18dae6f3aa895499f323663be2ca6b446a5fa490cef2340e4a3e46478ec3a063c117e87f945ccb17e3ec5d249b7cb29d420c4f89fc6f9b8592d26b69e184e2f4c6f2c17494f859558592c4bd0211a3945ff01fe27fba318062208f3b233a7d4b1d8b02804320836d4c7f4ce6d523f"
+		"EncryptedSignature"		"9a8f19da74f0b6266f0884af66a2ebda9957abd33913d8e8b517dc00b0b7fe703a68ad44a10bcd96894bb61157c2a344e7206099033dff21e181b0bf938e4560e827669a959f8fb0042a89ca505f02fe2096c83332f2e09d972a1ae024f3f827720908c0bc051deced5921b257508ce5d747801e08f6ffa95cccec1aea959aaa29b577ff663a95ca16e1d191cfc6b5495e78b90c15410180edfc7d6252f38657170e256f162c90f940b18dae6f3aa895499f323663be2ca6b446a5fa490cef2340e4a3e46478ec3a063c117e87f945ccb17e3ec5d249b7cb29d420c4f89fc6f9b8592d26b69e184e2f4c6f2c17494f859558592c4bd0211a3945ff01fe27fba3"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000a785415a01001001070000009e33b9b20365a8c000000000df7e82665f2e9e660100000000000000000034f4a2f4aa7725ef9487ed72615dfa7400097d5a258cd585338ed2175979da15f097a41b267b67d4d3ce92a2338a3234875247b303b1272464298e1e8a6d26adc2ad52339550b7ff0cbfbd424f375603fde4e065d018e5b4e2afaf58ab351a028707638282f858fb89e92bacd23578ee090a38612e43e93d43c78f55e2db07e8"
+		"322170"		"3200000004000000a785415a010010017aea04009e33b9b20365a8c0000000001b2382669bd29d6601008cc500000000000071fe23229095ebf6066c06afd976c6f65e784d33fe00205d5baf4bc801f34315a286a766556be115567e220ed2cbcb15493675b95b9413dae1f5d19ac8df18a77ef4e44fa001479377a4bed0f04d1e1152eb057abf424a2d5564091bc40e2f747c6406886488954746a69828484addba14129b712ae11d7b501c89529f9a3d1b"
+		"228980"		"3200000004000000a785415a01001001747e03009e33b9b20365a8c00000000021368266a1e59d6601000000000000000000b8f8fa6de8411b0c9ffb153ffcc3cafa74493c61e6d348ecec1ba8ebbb36d8cafe43546b8dc9f6ccfde71a19b852596c7351ae10b0ab5a9eac9c18a9c51d81d179d48e64f688dea37b7999972e9c4e7c5e6eb95079044f0abec8bd9ccefd9285497479e24e65c5f11cca3cc4abab27e2cfa1a6478635d32bdc9647925d4c676b"
+	}
+	"AppInfoChangeNumber"		"24192288"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"90"
+					{
+						"LastPlayed"		"1691738794"
+						"playtime"		"1"
+					}
+					"480"
+					{
+						"LastPlayed"		"1697982122"
+						"playtime"		"33"
+					}
+					"730"
+					{
+						"LastPlayed"		"1719577774"
+						"Playtime2wks"		"7"
+						"playtime"		"2056"
+					}
+					"322170"
+					{
+						"LastPlayed"		"1719591485"
+						"Playtime2wks"		"97"
+						"playtime"		"994"
+						"PlaytimeDisconnected"		"24"
+					}
+					"324810"
+					{
+						"LastPlayed"		"1695025414"
+						"playtime"		"53"
+					}
+					"438100"
+					{
+						"LastPlayed"		"1697804682"
+						"playtime"		"3"
+					}
+					"461040"
+					{
+						"LastPlayed"		"1712389315"
+						"playtime"		"11"
+					}
+					"945360"
+					{
+						"LastPlayed"		"1717988066"
+						"playtime"		"30"
+					}
+					"1029550"
+					{
+						"LastPlayed"		"1706355106"
+						"playtime"		"27"
+					}
+					"1304550"
+					{
+						"LastPlayed"		"1718978155"
+						"Playtime2wks"		"12"
+						"playtime"		"365"
+					}
+					"1568590"
+					{
+						"LastPlayed"		"1697797695"
+						"playtime"		"8"
+					}
+					"1677740"
+					{
+						"LastPlayed"		"1718874073"
+						"Playtime2wks"		"1"
+						"playtime"		"20"
+					}
+					"1690940"
+					{
+						"LastPlayed"		"1698551507"
+						"playtime"		"196"
+					}
+					"1712830"
+					{
+						"LastPlayed"		"1695478677"
+						"playtime"		"3"
+					}
+					"2200650"
+					{
+						"LastPlayed"		"1708069285"
+						"playtime"		"3"
+					}
+					"2923300"
+					{
+						"LastPlayed"		"1719588160"
+						"Playtime2wks"		"16"
+						"playtime"		"83"
+					}
+					"3015610"
+					{
+						"LastPlayed"		"1718516349"
+						"playtime"		"89"
+					}
+					"2977660"
+					{
+						"LastPlayed"		"1719510916"
+						"Playtime2wks"		"58"
+						"playtime"		"58"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"3677755"
+							"used_files"		"18"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1719591485"
+			}
+		}
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		"2371090"
+	}
+	"WebStorage"
+	{
+		"SteamVoiceSettings_1514243495"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"LocalizedTagNames_russian"		"{\"version_hash\":\"1294192039\",\"tags\":[{\"tagid\":9,\"name\":\"Стратегия\"},{\"tagid\":19,\"name\":\"Экшен\"},{\"tagid\":21,\"name\":\"Приключение\"},{\"tagid\":84,\"name\":\"Дизайн и иллюстрация\"},{\"tagid\":87,\"name\":\"Утилиты\"},{\"tagid\":113,\"name\":\"Бесплатная игра\"},{\"tagid\":122,\"name\":\"Ролевая игра\"},{\"tagid\":128,\"name\":\"ММО\"},{\"tagid\":492,\"name\":\"Инди\"},{\"tagid\":493,\"name\":\"Ранний доступ\"},{\"tagid\":597,\"name\":\"Казуальная игра\"},{\"tagid\":599,\"name\":\"Симулятор\"},{\"tagid\":699,\"name\":\"Гонки\"},{\"tagid\":701,\"name\":\"Спортивная игра\"},{\"tagid\":784,\"name\":\"Видеопродакшн\"},{\"tagid\":809,\"name\":\"Обработка фото\"},{\"tagid\":872,\"name\":\"Анимация и моделирование\"},{\"tagid\":1027,\"name\":\"Работа со звуком\"},{\"tagid\":1036,\"name\":\"Образование\"},{\"tagid\":1038,\"name\":\"Веб-публикация\"},{\"tagid\":1445,\"name\":\"Обучение работе с ПО\"},{\"tagid\":1616,\"name\":\"Поезда\"},{\"tagid\":1621,\"name\":\"Музыка\"},{\"tagid\":1625,\"name\":\"Платформер\"},{\"tagid\":1628,\"name\":\"Метроидвания\"},{\"tagid\":1638,\"name\":\"Собаки\"},{\"tagid\":1643,\"name\":\"Строительство\"},{\"tagid\":1644,\"name\":\"Вождение\"},{\"tagid\":1645,\"name\":\"Башенная защита\"},{\"tagid\":1646,\"name\":\"Слэшер\"},{\"tagid\":1647,\"name\":\"Вестерн\"},{\"tagid\":1649,\"name\":\"GameMaker\"},{\"tagid\":1651,\"name\":\"Сатира\"},{\"tagid\":1654,\"name\":\"Расслабляющая\"},{\"tagid\":1659,\"name\":\"Зомби\"},{\"tagid\":1662,\"name\":\"Выживание\"},{\"tagid\":1663,\"name\":\"Шутер от первого лица\"},{\"tagid\":1664,\"name\":\"Головоломка\"},{\"tagid\":1665,\"name\":\"Три в ряд\"},{\"tagid\":1666,\"name\":\"Карточная игра\"},{\"tagid\":1667,\"name\":\"Хоррор\"},{\"tagid\":1669,\"name\":\"Поддержка модификаций\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Супергерои\"},{\"tagid\":1673,\"name\":\"Инопланетяне\"},{\"tagid\":1674,\"name\":\"Печатание\"},{\"tagid\":1676,\"name\":\"Стратегия в реальном времени\"},{\"tagid\":1677,\"name\":\"Пошаговая\"},{\"tagid\":1678,\"name\":\"Война\"},{\"tagid\":1680,\"name\":\"Ограбления\"},{\"tagid\":1681,\"name\":\"Пираты\"},{\"tagid\":1684,\"name\":\"Фэнтези\"},{\"tagid\":1685,\"name\":\"Кооператив\"},{\"tagid\":1687,\"name\":\"Стелс\"},{\"tagid\":1688,\"name\":\"Ниндзя\"},{\"tagid\":1693,\"name\":\"Классика\"},{\"tagid\":1695,\"name\":\"Открытый мир\"},{\"tagid\":1697,\"name\":\"От третьего лица\"},{\"tagid\":1698,\"name\":\"Point & Click\"},{\"tagid\":1702,\"name\":\"Крафтинг\"},{\"tagid\":1708,\"name\":\"Тактика\"},{\"tagid\":1710,\"name\":\"Сюрреалистичная\"},{\"tagid\":1714,\"name\":\"Психоделия\"},{\"tagid\":1716,\"name\":\"Рогалик\"},{\"tagid\":1717,\"name\":\"Шестиугольная карта\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Юмор\"},{\"tagid\":1720,\"name\":\"Подземелья\"},{\"tagid\":1721,\"name\":\"Психологический хоррор\"},{\"tagid\":1723,\"name\":\"Экшен-RTS\"},{\"tagid\":1730,\"name\":\"Сокобан\"},{\"tagid\":1732,\"name\":\"Воксельная графика\"},{\"tagid\":1733,\"name\":\"Суровая\"},{\"tagid\":1734,\"name\":\"Быстрая\"},{\"tagid\":1736,\"name\":\"LEGO\"},{\"tagid\":1738,\"name\":\"Поиск предметов\"},{\"tagid\":1741,\"name\":\"Пошаговая стратегия\"},{\"tagid\":1742,\"name\":\"Глубокий сюжет\"},{\"tagid\":1743,\"name\":\"Файтинг\"},{\"tagid\":1746,\"name\":\"Баскетбол\"},{\"tagid\":1751,\"name\":\"По комиксу\"},{\"tagid\":1752,\"name\":\"Ритм-игра\"},{\"tagid\":1753,\"name\":\"Скейтбординг\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Космос\"},{\"tagid\":1756,\"name\":\"Отличный саундтрек\"},{\"tagid\":1759,\"name\":\"Одна жизнь\"},{\"tagid\":1770,\"name\":\"Настольная с полем\"},{\"tagid\":1773,\"name\":\"Аркада\"},{\"tagid\":1774,\"name\":\"Шутер\"},{\"tagid\":1775,\"name\":\"Игрок против игрока\"},{\"tagid\":1777,\"name\":\"Стимпанк\"},{\"tagid\":3796,\"name\":\"По мотивам книги\"},{\"tagid\":3798,\"name\":\"Вид сбоку\"},{\"tagid\":3799,\"name\":\"Визуальная новелла\"},{\"tagid\":3810,\"name\":\"Песочница\"},{\"tagid\":3813,\"name\":\"Тактика в реальном времени\"},{\"tagid\":3814,\"name\":\"Шутер от третьего лица\"},{\"tagid\":3834,\"name\":\"Исследования\"},{\"tagid\":3835,\"name\":\"Постапокалипсис\"},{\"tagid\":3839,\"name\":\"От первого лица\"},{\"tagid\":3841,\"name\":\"Локальный кооператив\"},{\"tagid\":3843,\"name\":\"Сетевой кооператив\"},{\"tagid\":3854,\"name\":\"Проработанная вселенная\"},{\"tagid\":3859,\"name\":\"Для нескольких игроков\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"Платформер на точность\"},{\"tagid\":3878,\"name\":\"Соревновательная\"},{\"tagid\":3916,\"name\":\"Олдскул\"},{\"tagid\":3920,\"name\":\"Кулинария\"},{\"tagid\":3934,\"name\":\"Иммерсивная игра\"},{\"tagid\":3942,\"name\":\"Научная фантастика\"},{\"tagid\":3952,\"name\":\"Готика\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"Яркий главный герой\"},{\"tagid\":3959,\"name\":\"Упрощённый рогалик\"},{\"tagid\":3964,\"name\":\"Пиксельная графика\"},{\"tagid\":3965,\"name\":\"Эпичная\"},{\"tagid\":3968,\"name\":\"Физика\"},{\"tagid\":3978,\"name\":\"Хоррор на выживание\"},{\"tagid\":3987,\"name\":\"Историческая\"},{\"tagid\":3993,\"name\":\"Бой\"},{\"tagid\":4004,\"name\":\"Ретро\"},{\"tagid\":4018,\"name\":\"Вампиры\"},{\"tagid\":4026,\"name\":\"Сложная\"},{\"tagid\":4036,\"name\":\"Паркур\"},{\"tagid\":4046,\"name\":\"Драконы\"},{\"tagid\":4057,\"name\":\"Магия\"},{\"tagid\":4064,\"name\":\"Триллер\"},{\"tagid\":4085,\"name\":\"Аниме\"},{\"tagid\":4094,\"name\":\"Минимализм\"},{\"tagid\":4102,\"name\":\"Боевые гонки\"},{\"tagid\":4106,\"name\":\"Приключенческий экшен\"},{\"tagid\":4115,\"name\":\"Киберпанк\"},{\"tagid\":4136,\"name\":\"Смешная\"},{\"tagid\":4137,\"name\":\"Трансгуманизм\"},{\"tagid\":4145,\"name\":\"Кинематографичная\"},{\"tagid\":4150,\"name\":\"Вторая мировая война\"},{\"tagid\":4155,\"name\":\"Разделение на классы\"},{\"tagid\":4158,\"name\":\"Beat 'em up\"},{\"tagid\":4161,\"name\":\"В реальном времени\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"Атмосферная\"},{\"tagid\":4168,\"name\":\"Военные действия\"},{\"tagid\":4172,\"name\":\"Средневековье\"},{\"tagid\":4175,\"name\":\"Реализм\"},{\"tagid\":4182,\"name\":\"Для одного игрока\"},{\"tagid\":4184,\"name\":\"Шахматы\"},{\"tagid\":4190,\"name\":\"Затягивающая\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"Мультипликация\"},{\"tagid\":4202,\"name\":\"Торговля\"},{\"tagid\":4231,\"name\":\"Ролевой экшен\"},{\"tagid\":4234,\"name\":\"Короткая\"},{\"tagid\":4236,\"name\":\"Лут\"},{\"tagid\":4242,\"name\":\"Сериал\"},{\"tagid\":4252,\"name\":\"Стилизация\"},{\"tagid\":4255,\"name\":\"Shoot 'em up\"},{\"tagid\":4291,\"name\":\"Космические корабли\"},{\"tagid\":4295,\"name\":\"Будущее\"},{\"tagid\":4305,\"name\":\"Цветастая\"},{\"tagid\":4325,\"name\":\"Пошаговые сражения\"},{\"tagid\":4328,\"name\":\"Градостроение\"},{\"tagid\":4342,\"name\":\"Мрачная\"},{\"tagid\":4345,\"name\":\"Мясо\"},{\"tagid\":4364,\"name\":\"Глобальная стратегия\"},{\"tagid\":4376,\"name\":\"Ассассины\"},{\"tagid\":4400,\"name\":\"Абстрактная\"},{\"tagid\":4434,\"name\":\"Японская ролевая игра\"},{\"tagid\":4474,\"name\":\"Компьютерная ролевая игра\"},{\"tagid\":4486,\"name\":\"Выбери себе приключение\"},{\"tagid\":4508,\"name\":\"Совместная кампания\"},{\"tagid\":4520,\"name\":\"Фермерство\"},{\"tagid\":4559,\"name\":\"QTE\"},{\"tagid\":4562,\"name\":\"Мультфильмы\"},{\"tagid\":4598,\"name\":\"Альтернативная история\"},{\"tagid\":4604,\"name\":\"Тёмное фэнтези\"},{\"tagid\":4608,\"name\":\"Сражения на мечах\"},{\"tagid\":4637,\"name\":\"Шутер с видом сверху\"},{\"tagid\":4667,\"name\":\"Насилие\"},{\"tagid\":4684,\"name\":\"Военные конфликты\"},{\"tagid\":4695,\"name\":\"Экономика\"},{\"tagid\":4700,\"name\":\"Фильм\"},{\"tagid\":4711,\"name\":\"Реиграбельность\"},{\"tagid\":4726,\"name\":\"Милая\"},{\"tagid\":4736,\"name\":\"2D-файтинг\"},{\"tagid\":4747,\"name\":\"Кастомизация персонажа\"},{\"tagid\":4754,\"name\":\"Политика\"},{\"tagid\":4758,\"name\":\"Твин-стик шутер\"},{\"tagid\":4777,\"name\":\"Зрелищные сражения\"},{\"tagid\":4791,\"name\":\"Вид сверху\"},{\"tagid\":4821,\"name\":\"Мехи\"},{\"tagid\":4835,\"name\":\"Свобода движения\"},{\"tagid\":4840,\"name\":\"Локальная игра на четверых\"},{\"tagid\":4845,\"name\":\"Капитализм\"},{\"tagid\":4853,\"name\":\"Политическая\"},{\"tagid\":4878,\"name\":\"Пародия\"},{\"tagid\":4885,\"name\":\"Пулевой ад\"},{\"tagid\":4947,\"name\":\"Романтика\"},{\"tagid\":4975,\"name\":\"Псевдотрёхмерность\"},{\"tagid\":4994,\"name\":\"Морской бой\"},{\"tagid\":5030,\"name\":\"Антиутопия\"},{\"tagid\":5055,\"name\":\"Киберспорт\"},{\"tagid\":5094,\"name\":\"Повествовательная\"},{\"tagid\":5125,\"name\":\"Процедурная генерация\"},{\"tagid\":5153,\"name\":\"Kickstarter\"},{\"tagid\":5154,\"name\":\"Набор очков\"},{\"tagid\":5160,\"name\":\"Динозавры \"},{\"tagid\":5179,\"name\":\"Холодная война\"},{\"tagid\":5186,\"name\":\"Психологическая\"},{\"tagid\":5228,\"name\":\"Кровь\"},{\"tagid\":5230,\"name\":\"Сиквел\"},{\"tagid\":5300,\"name\":\"Симулятор бога\"},{\"tagid\":5310,\"name\":\"Games Workshop\"},{\"tagid\":5348,\"name\":\"Модификации\"},{\"tagid\":5350,\"name\":\"Для всей семьи\"},{\"tagid\":5363,\"name\":\"Разрушения\"},{\"tagid\":5372,\"name\":\"Заговор\"},{\"tagid\":5379,\"name\":\"2D-платформер\"},{\"tagid\":5382,\"name\":\"Первая мировая война\"},{\"tagid\":5390,\"name\":\"Игра на время\"},{\"tagid\":5395,\"name\":\"3D-платформер\"},{\"tagid\":5407,\"name\":\"Бенчмарк\"},{\"tagid\":5411,\"name\":\"Красивая\"},{\"tagid\":5432,\"name\":\"Программирование\"},{\"tagid\":5502,\"name\":\"Хакерство\"},{\"tagid\":5537,\"name\":\"Головоломка-платформер\"},{\"tagid\":5547,\"name\":\"Арена-шутер\"},{\"tagid\":5577,\"name\":\"RPG Maker\"},{\"tagid\":5608,\"name\":\"Эмоциональная\"},{\"tagid\":5611,\"name\":\"Для взрослых\"},{\"tagid\":5613,\"name\":\"Детектив\"},{\"tagid\":5652,\"name\":\"Коллектатон\"},{\"tagid\":5673,\"name\":\"Современность\"},{\"tagid\":5708,\"name\":\"Ремейк\"},{\"tagid\":5711,\"name\":\"Командная\"},{\"tagid\":5716,\"name\":\"Тайна\"},{\"tagid\":5727,\"name\":\"Бейсбол\"},{\"tagid\":5752,\"name\":\"Роботы\"},{\"tagid\":5765,\"name\":\"Кастомизация оружия\"},{\"tagid\":5794,\"name\":\"Наука\"},{\"tagid\":5796,\"name\":\"Замедление времени\"},{\"tagid\":5851,\"name\":\"Изометрия\"},{\"tagid\":5900,\"name\":\"Симулятор ходьбы\"},{\"tagid\":5914,\"name\":\"Теннис\"},{\"tagid\":5923,\"name\":\"Чёрный юмор\"},{\"tagid\":5941,\"name\":\"Перезапуск\"},{\"tagid\":5981,\"name\":\"Горное дело\"},{\"tagid\":5984,\"name\":\"Драма\"},{\"tagid\":6041,\"name\":\"Лошади\"},{\"tagid\":6052,\"name\":\"Нуар\"},{\"tagid\":6129,\"name\":\"Логика\"},{\"tagid\":6214,\"name\":\"Птицы\"},{\"tagid\":6276,\"name\":\"Менеджмент инвентаря\"},{\"tagid\":6310,\"name\":\"Дипломатия\"},{\"tagid\":6378,\"name\":\"Криминал\"},{\"tagid\":6426,\"name\":\"Решения с последствиями\"},{\"tagid\":6506,\"name\":\"3D-файтинг\"},{\"tagid\":6621,\"name\":\"Пинбол\"},{\"tagid\":6625,\"name\":\"Контроль времени\"},{\"tagid\":6650,\"name\":\"Нагота\"},{\"tagid\":6691,\"name\":\"90-е\"},{\"tagid\":6702,\"name\":\"Марс\"},{\"tagid\":6730,\"name\":\"Игрок против ИИ\"},{\"tagid\":6815,\"name\":\"Рисованная графика\"},{\"tagid\":6869,\"name\":\"Нелинейная\"},{\"tagid\":6910,\"name\":\"Флот\"},{\"tagid\":6915,\"name\":\"Боевые искусства\"},{\"tagid\":6948,\"name\":\"Рим\"},{\"tagid\":6971,\"name\":\"Несколько концовок\"},{\"tagid\":7038,\"name\":\"Гольф\"},{\"tagid\":7107,\"name\":\"Можно приостановить\"},{\"tagid\":7108,\"name\":\"Вечеринка\"},{\"tagid\":7113,\"name\":\"Создана на пожертвования\"},{\"tagid\":7178,\"name\":\"Командная игра\"},{\"tagid\":7208,\"name\":\"Протагонистка\"},{\"tagid\":7250,\"name\":\"Линейная\"},{\"tagid\":7309,\"name\":\"Лыжи\"},{\"tagid\":7328,\"name\":\"Боулинг\"},{\"tagid\":7332,\"name\":\"Строительство базы\"},{\"tagid\":7368,\"name\":\"Локальный мультиплеер\"},{\"tagid\":7423,\"name\":\"Снайперство\"},{\"tagid\":7432,\"name\":\"Лавкрафт\"},{\"tagid\":7478,\"name\":\"Иллюминаты\"},{\"tagid\":7481,\"name\":\"Контроллер\"},{\"tagid\":7569,\"name\":\"Перемещение по сетке\"},{\"tagid\":7622,\"name\":\"Бездорожье\"},{\"tagid\":7702,\"name\":\"Повествование\"},{\"tagid\":7743,\"name\":\"80-е\"},{\"tagid\":7782,\"name\":\"Культовая классика\"},{\"tagid\":7918,\"name\":\"Дворфы\"},{\"tagid\":7926,\"name\":\"Искусственный интеллект\"},{\"tagid\":7948,\"name\":\"Саундтрек\"},{\"tagid\":8013,\"name\":\"Программное обеспечение\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"Мини-игры\"},{\"tagid\":8122,\"name\":\"Редактор уровней\"},{\"tagid\":8253,\"name\":\"Генерация на основе музыки\"},{\"tagid\":8369,\"name\":\"Расследования\"},{\"tagid\":8461,\"name\":\"Хорошо написанная\"},{\"tagid\":8666,\"name\":\"Раннер\"},{\"tagid\":8945,\"name\":\"Управление ресурсами\"},{\"tagid\":9130,\"name\":\"Хентай\"},{\"tagid\":9157,\"name\":\"Подводный мир\"},{\"tagid\":9204,\"name\":\"Иммерсивный симулятор\"},{\"tagid\":9271,\"name\":\"Коллекционная карточная игра\"},{\"tagid\":9541,\"name\":\"Демоны\"},{\"tagid\":9551,\"name\":\"Симулятор свиданий\"},{\"tagid\":9564,\"name\":\"Охота\"},{\"tagid\":9592,\"name\":\"Динамическое повествование\"},{\"tagid\":9803,\"name\":\"Снег\"},{\"tagid\":9994,\"name\":\"Переживание\"},{\"tagid\":10235,\"name\":\"Симулятор жизни\"},{\"tagid\":10383,\"name\":\"Транспорт\"},{\"tagid\":10397,\"name\":\"Мемы\"},{\"tagid\":10437,\"name\":\"Викторина\"},{\"tagid\":10679,\"name\":\"Путешествия во времени\"},{\"tagid\":10695,\"name\":\"Партийная ролевая игра\"},{\"tagid\":10808,\"name\":\"Сверхъестественное\"},{\"tagid\":10816,\"name\":\"Разделение экрана\"},{\"tagid\":11014,\"name\":\"Интерактивная литература\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"Гонки на выживание\"},{\"tagid\":11123,\"name\":\"Управление мышью\"},{\"tagid\":11333,\"name\":\"Злодей-протагонист\"},{\"tagid\":11634,\"name\":\"Викинги\"},{\"tagid\":12057,\"name\":\"Обучение\"},{\"tagid\":12095,\"name\":\"Сексуальный контент\"},{\"tagid\":12190,\"name\":\"Бокс\"},{\"tagid\":12286,\"name\":\"Warhammer 40K\"},{\"tagid\":12472,\"name\":\"Менеджмент\"},{\"tagid\":13070,\"name\":\"Пасьянс\"},{\"tagid\":13190,\"name\":\"Америка\"},{\"tagid\":13276,\"name\":\"Танки\"},{\"tagid\":13382,\"name\":\"Стрельба из лука\"},{\"tagid\":13577,\"name\":\"Мореплавание\"},{\"tagid\":13782,\"name\":\"Экспериментальная\"},{\"tagid\":13906,\"name\":\"Разработка игр\"},{\"tagid\":14139,\"name\":\"Пошаговая тактика\"},{\"tagid\":14153,\"name\":\"Dungeons & Dragons\"},{\"tagid\":14720,\"name\":\"Ностальгия\"},{\"tagid\":14906,\"name\":\"Нарочито неудобное управление\"},{\"tagid\":15045,\"name\":\"Полёты\"},{\"tagid\":15172,\"name\":\"Беседы\"},{\"tagid\":15277,\"name\":\"Философская\"},{\"tagid\":15339,\"name\":\"Документальный фильм\"},{\"tagid\":15564,\"name\":\"Рыбалка\"},{\"tagid\":15868,\"name\":\"Мотокросс\"},{\"tagid\":15954,\"name\":\"Молчаливый главный герой\"},{\"tagid\":16094,\"name\":\"Мифология\"},{\"tagid\":16250,\"name\":\"Азартная\"},{\"tagid\":16598,\"name\":\"Космический симулятор\"},{\"tagid\":16689,\"name\":\"Тайм-менеджмент\"},{\"tagid\":17015,\"name\":\"Оборотни\"},{\"tagid\":17305,\"name\":\"Ролевая стратегия\"},{\"tagid\":17337,\"name\":\"Лемминги\"},{\"tagid\":17389,\"name\":\"Настольная игра\"},{\"tagid\":17770,\"name\":\"Асинхронный мультиплеер\"},{\"tagid\":17894,\"name\":\"Котики\"},{\"tagid\":17927,\"name\":\"Бильярд\"},{\"tagid\":18594,\"name\":\"FMV-игра\"},{\"tagid\":19568,\"name\":\"Велосипеды\"},{\"tagid\":19780,\"name\":\"Подводная лодка\"},{\"tagid\":19995,\"name\":\"Чёрная комедия\"},{\"tagid\":21006,\"name\":\"Подземная\"},{\"tagid\":21725,\"name\":\"Тактическая ролевая игра\"},{\"tagid\":21978,\"name\":\"VR\"},{\"tagid\":22602,\"name\":\"Сельское хозяйство\"},{\"tagid\":22955,\"name\":\"Мини-гольф\"},{\"tagid\":24003,\"name\":\"Словесная\"},{\"tagid\":24904,\"name\":\"NSFW\"},{\"tagid\":25085,\"name\":\"Сенсорное управление\"},{\"tagid\":26921,\"name\":\"Политический симулятор\"},{\"tagid\":27758,\"name\":\"Управление голосом\"},{\"tagid\":28444,\"name\":\"Сноубординг\"},{\"tagid\":29363,\"name\":\"3D Vision\"},{\"tagid\":29482,\"name\":\"Похожа на Dark Souls\"},{\"tagid\":29855,\"name\":\"Эмбиент\"},{\"tagid\":30358,\"name\":\"Природа\"},{\"tagid\":30927,\"name\":\"Лисицы\"},{\"tagid\":31275,\"name\":\"Текстовая\"},{\"tagid\":31579,\"name\":\"Отомэ\"},{\"tagid\":32322,\"name\":\"Построение колоды\"},{\"tagid\":33572,\"name\":\"Маджонг\"},{\"tagid\":35079,\"name\":\"Симулятор работы\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"Скример\"},{\"tagid\":42329,\"name\":\"Кодинг\"},{\"tagid\":42804,\"name\":\"Экшен-рогалик\"},{\"tagid\":44868,\"name\":\"ЛГБТК+\"},{\"tagid\":47827,\"name\":\"Реслинг\"},{\"tagid\":49213,\"name\":\"Регби\"},{\"tagid\":51306,\"name\":\"Зарубежная\"},{\"tagid\":56690,\"name\":\"Рельсовый шутер\"},{\"tagid\":61357,\"name\":\"Электронная музыка\"},{\"tagid\":71389,\"name\":\"Правописание\"},{\"tagid\":87918,\"name\":\"Симулятор фермы\"},{\"tagid\":91114,\"name\":\"Работа в магазине\"},{\"tagid\":92092,\"name\":\"Авиасимулятор\"},{\"tagid\":96359,\"name\":\"Катание\"},{\"tagid\":97376,\"name\":\"Уютная\"},{\"tagid\":102530,\"name\":\"Эльфы\"},{\"tagid\":117648,\"name\":\"8-битная музыка\"},{\"tagid\":123332,\"name\":\"Байки\"},{\"tagid\":129761,\"name\":\"Квадроциклы\"},{\"tagid\":143739,\"name\":\"Электроника\"},{\"tagid\":150626,\"name\":\"Об играх\"},{\"tagid\":158638,\"name\":\"Крикет\"},{\"tagid\":176733,\"name\":\"Сочетание блоков\"},{\"tagid\":176981,\"name\":\"Королевская битва\"},{\"tagid\":180368,\"name\":\"Верования\"},{\"tagid\":189941,\"name\":\"Инструментальная музыка\"},{\"tagid\":198631,\"name\":\"Загадочные подземелья\"},{\"tagid\":198913,\"name\":\"Мотоциклы\"},{\"tagid\":220585,\"name\":\"Симулятор колонии\"},{\"tagid\":233824,\"name\":\"Полнометражный фильм\"},{\"tagid\":252854,\"name\":\"Веломотокросс\"},{\"tagid\":255534,\"name\":\"Автоматизация\"},{\"tagid\":323922,\"name\":\"Мусоу\"},{\"tagid\":324176,\"name\":\"Хоккей\"},{\"tagid\":337964,\"name\":\"Рок-музыка\"},{\"tagid\":348922,\"name\":\"Steam Machine\"},{\"tagid\":353880,\"name\":\"Лутер-шутер\"},{\"tagid\":363767,\"name\":\"Снукер\"},{\"tagid\":379975,\"name\":\"Кликер\"},{\"tagid\":454187,\"name\":\"Традиционный рогалик\"},{\"tagid\":552282,\"name\":\"Душевная\"},{\"tagid\":603297,\"name\":\"Устройства\"},{\"tagid\":615955,\"name\":\"Idle-игра\"},{\"tagid\":620519,\"name\":\"Геройский шутер\"},{\"tagid\":745697,\"name\":\"Социальная дедукция\"},{\"tagid\":769306,\"name\":\"Эскейп-рум\"},{\"tagid\":776177,\"name\":\"Панорамное видео\"},{\"tagid\":791774,\"name\":\"Карточный баттлер\"},{\"tagid\":847164,\"name\":\"Волейбол\"},{\"tagid\":856791,\"name\":\"Асимметричная VR\"},{\"tagid\":916648,\"name\":\"Коллекционирование существ\"},{\"tagid\":922563,\"name\":\"Рогалик-метроидвания\"},{\"tagid\":1023537,\"name\":\"Бумерский шутер\"},{\"tagid\":1084988,\"name\":\"Автобаттлер\"},{\"tagid\":1091588,\"name\":\"Карточный рогалик\"},{\"tagid\":1100686,\"name\":\"Симулятор эпидемии\"},{\"tagid\":1100687,\"name\":\"Автосимулятор\"},{\"tagid\":1100688,\"name\":\"Медицинский симулятор\"},{\"tagid\":1100689,\"name\":\"Симулятор выживания и крафтинга в открытом мире\"},{\"tagid\":1199779,\"name\":\"Шутер с эвакуацией\"},{\"tagid\":1220528,\"name\":\"Симулятор хобби\"},{\"tagid\":1254546,\"name\":\"Футбол\"},{\"tagid\":1254552,\"name\":\"Американский футбол\"}]}"
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]}}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":1}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":322170},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[18]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"CTextFilterStore_TextFilterPreferences_1514243495"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords_1514243495"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"CTextFilterStore_strBannedPattern_1514243495"		"KDEpXGIo77u/KGFwZXxiYXR8YnVsbD98YnV0dHxkaXB8ZG9nfGR1bWJ8ZWJvfGhvbHl8aG9yc2V8amFja3xwZWRvfHBpZ3x1YmkpXFcqc2goaXR8dGkpcz98ZFtpbF0rKGNrfGtjKVxXKihhc3N8YmFnfGJyZWF0aHxlYXR8ZmFjZXxmbGlwfGhlYWR8aG9sZXxsZXNzfHN1Y2t8d2VlZClcdyp8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmsoZT9kfGU/cnM/fFtlaV0/bitnP3x0KXxtW2FvdV0oZCt8dCt8dGh8aHR8eikoYXxlfGVyfGlyfHVyKShjfGYpYz9bYW91XWM/a1x3KnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rKGU/ZHxlP3J8W2VpXT9uK2c/KXxcdypmW3Z1XStoKmMrW2hqdmtdKihlP2R8ZT9yfFtlaV0/bitnP3x0KXxiK2krYSp0K2MraCsoZStkfGUqcj9bc3pdK3xbZWldP24rZz98eSl8XHcqZlt2dV0rYz9beGtxXSsoZT9kfGU/cnxbZWldP24rZz98dCl8cChvbyt8dSspcysoYSt5K3xlK3xlaHxleXxpK3xpZXx5KylzKnxtW291XXRoKGF8ZXIpKGZ8cGgpW3Z1ZV0rYz9bZ2txeF0rfFx3KmZbdnVdK2gqcShlP2R8ZT9yfFtlaV0/bitnP3x0KXxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qa3xmW2NrXSsoZT9kfGU/cnxbZWldP24rZz98dCl8ZnXzoICh86CAoWNrafOggKHzoIChbmd8ZHVtYihmfHBoKVt2dV0rYz9beGtxXXxjKG9jP3xhdylrXFcqc3VjP2tcdyp8ZFtpbF0rKGNrfGtjKShlZHxpbmcpfHBoW3Z1XStoKmMrW2hqdmtdKlx3Knxzb25cVypvZlxXKmFcVypiaXRjaHzQtNC+0LvQsdC+0LXQsdC40LfQvHxcdyp3aG8rcmUoZWR8aW5nfHMpfGMob3xhaHxhdyljP2soc3xlZCl8cytoK1tpbHldK3QrW2Vyc3ldKnxhK3NzK1xXKnc/aG9sZT9cdyp8cGhbdnVdK2M/W3hrcV0rXHcqfNCz0L7QstC90L7QtdC00L7QsnzQtNC+0LvQsdCw0LXQsdC+0LJ80LXQsdC70LDQvdGB0LrQsNGPfNC10LHQu9Cw0L3RgdC60LjQuXzQt9Cw0LXQsdGR0YjRjNGB0Y980LfQsNGF0YPRj9GH0LjQu9C4fNC/0LjQtNCw0YDQsNGB0L7QsnzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV8Zlt2dV0rYz9beGtxXStcdyp8YnVsbCtzaCtbaWx5XSt0K3xnb2RcVypkYW1uP1xXKml0fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L/QuNC00LDRgNCw0YHRi3zRg9GR0LHQuNGJ0L3QsNGPfNGD0ZHQsdC40YnQvdGL0Ll8Z29kXFcqZGFtbj9cdyp80LLRitC10LHQsNC70Lh80LLRitC10LHQsNGC0Yx80LXQsdCw0L3QvdCw0Y980LXQsdCw0L3QvdC+0LV80LXQsdCw0L3QvdGL0YV80LXQsdCw0L3QvtCz0L580LXQsdCw0L3RjNC60Lh80LXQsdC+0L3QvdC+0LV80LfQsNC10LHQsNC70LB80LfQsNC10LHQsNC70L580L/QvtC10LHQtdC90Yx80YXRg9GR0LLQvtCz0L58YStzcytcVypmdVx3KnxjKG98YWh8YXcpYz9rfGRbaWxdKyhja3xrYyl8YitpK2EqdCtjK2grfGJ1dHRcVypmdVx3KnxjdW1tKGVyfGluZyl8Zlt2dV0raCpjXHcqfGZbdnVdK2gqcVx3KnxzaCtpK1thZV0rdCt80LDRhdGD0LXQu9C4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YHRgNCw0L3QsNGPfNGD0ZHQsdC40YnQsHzRg9GR0LHQuNGJ0LV80YXRg9C10YHQvtGBfNGF0YPQtdGC0L7QuXzRhdGD0LnQvdGR0Ll80YXRg9GR0LLQsNGPfNGF0YPRkdCy0YvQuXzkvaDlpojmrbvkuoZ85aaI55qE5Liq6YC8fOaIkeaYr+WCu+mAvHxjK3Urbit0K1x3KnxkK2krYytrK3MqfGZ14oCOY2tpbmd80LHQu9GP0LTRjHzQsdC70Y/RgtGMfNC00L7RhdGD0Y980LTRgNC+0YfQuHzQtdCx0LDQu9C+fNC10LHQsNGC0Yx80L000LXQsTTQu3zQvdCw0YXRg9C5fNC90LDRhdGD0Y980L3QtdGF0YPQuXzQvdC40YXRg9GPfNC/0LjQt9C00LV80L/QuNC30LTRg3zQv9C+0YXRg9C5fNGD0LXQsdGR0YJ80YXRg9C10YLQsHzRhdGD0LXRgtGDfNGF0YPQudC90Lh80YXRg9C50L3RjnzRhdGD0LnQvdGPfNGI0LvRjtGF0Lh80ZHQsdCw0L3Ri3xhK3Nob2xlcz98c2grZStpK3QrfOaTjeS9oOWmiHzmk43kvaDlprl86IKP5L2g5aaIfNCw0YXRg9C1fNC10LHQsNC7fNC10LHRg9GCfNGB0YPQutCwfNGF0YPRj9C8fNGI0LvRjtGFfEZcLlVcLkNcLkt8Y2hvZGVzP3xjdW1zaG90fGZ1Y2tpbmd8ZnXigI5ja3xzaGl0XHcqfHNodHBvc3R8d2hvK3JlP3xjdW1iYWd8amViYW5lfHR3YXRzP3zQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xkYWZ1cXxkadGBa3xzaCBpdHxjb3ErfGhvcmV8a29ja3xubXNsfHNoYXR8ZGlrfGZja3xreXN8XHcqZit1K2Mraytcdyp8XHcqZtGG0YHQulx3KnxcdypzaNGWdHR5XHcqfFx3KmZfdWNfa1x3KnxcdypwdXNzeVx3KnwoYXBlfGJhdHxidWxsP3xidXR0fGRpcHxkb2d8ZHVtYnxlYm98aG9seXxob3JzZXxqYWNrfHBlZG98cGlnfHViaSlcVypzaChpdHx0aSlzP3xkW2lsXSsoY2t8a2MpXFcqKGFzc3xiYWd8YnJlYXRofGVhdHxmYWNlfGZsaXB8aGVhZHxob2xlfGxlc3N8c3Vja3x3ZWVkKVx3KnxmW2Noal0/KGF8YXV8YXd8ZXxvK3x1fHV5KVtjaF0qayhlP2R8ZT9ycz98W2VpXT9uK2c/fHQpfG1bYW91XShkK3x0K3x0aHxodHx6KShhfGV8ZXJ8aXJ8dXIpKGN8ZiljP1thb3VdYz9rXHcqfG1bb3VddGgoYXxlcikoZnxwaClbdnVlXStjP1tna3F4XSsoZT9kfGU/cnxbZWldP24rZz8pfFx3KmZbdnVdK2gqYytbaGp2a10qKGU/ZHxlP3J8W2VpXT9uK2c/fHQpfGIraSthKnQrYytoKyhlK2R8ZSpyP1tzel0rfFtlaV0/bitnP3x5KXxcdypmW3Z1XStjP1t4a3FdKyhlP2R8ZT9yfFtlaV0/bitnP3x0KXxwKG9vK3x1KylzKyhhK3krfGUrfGVofGV5fGkrfGllfHkrKXMqfG1bb3VddGgoYXxlcikoZnxwaClbdnVlXStjP1tna3F4XSt8XHcqZlt2dV0raCpxKGU/ZHxlP3J8W2VpXT9uK2c/fHQpfGZbY2hqXT8oYXxhdXxhd3xlfG8rfHV8dXkpW2NoXSprfGZbY2tdKyhlP2R8ZT9yfFtlaV0/bitnP3x0KXxmdfOggKHzoIChY2tp86CAofOggKFuZ3xkdW1iKGZ8cGgpW3Z1XStjP1t4a3FdfGMob2M/fGF3KWtcVypzdWM/a1x3KnxkW2lsXSsoY2t8a2MpKGVkfGluZyl8cGhbdnVdK2gqYytbaGp2a10qXHcqfHNvblxXKm9mXFcqYVxXKmJpdGNofNC00L7Qu9Cx0L7QtdCx0LjQt9C8fFx3KndobytyZShlZHxpbmd8cyl8YyhvfGFofGF3KWM/ayhzfGVkKXxzK2grW2lseV0rdCtbZXJzeV0qfGErc3MrXFcqdz9ob2xlP1x3KnxwaFt2dV0rYz9beGtxXStcdyp80LPQvtCy0L3QvtC10LTQvtCyfNC00L7Qu9Cx0LDQtdCx0L7QsnzQtdCx0LvQsNC90YHQutCw0Y980LXQsdC70LDQvdGB0LrQuNC5fNC30LDQtdCx0ZHRiNGM0YHRj3zQt9Cw0YXRg9GP0YfQuNC70Lh80L/QuNC00LDRgNCw0YHQvtCyfNC/0LjQtNCw0YDRgdC60LjQuXzRgdGK0LXQsdCw0YLRjNGB0Y980YPQtdCx0LDQvdGB0LrQuNC5fNGD0LXQsdC40YnRjNC90L7QtXxmW3Z1XStjP1t4a3FdK1x3KnxidWxsK3NoK1tpbHldK3QrfGdvZFxXKmRhbW4/XFcqaXR80LDRhdGD0LXQvdC90LDRj3zQsNGF0YPQtdC90L3Rg9GOfNCw0YXRg9C10L3QvdGL0Ll80LLRi9C10LHQsNC90L7QtXzQtdCx0LDQvdC90L7QvNGDfNC10LHQsNC90YPRgtGL0LV80LXQsdC70LDQvdCw0LzQuHzQv9C40LTQsNGA0LDRgdGLfNGD0ZHQsdC40YnQvdCw0Y980YPRkdCx0LjRidC90YvQuXxnb2RcVypkYW1uP1x3KnzQstGK0LXQsdCw0LvQuHzQstGK0LXQsdCw0YLRjHzQtdCx0LDQvdC90LDRj3zQtdCx0LDQvdC90L7QtXzQtdCx0LDQvdC90YvRhXzQtdCx0LDQvdC+0LPQvnzQtdCx0LDQvdGM0LrQuHzQtdCx0L7QvdC90L7QtXzQt9Cw0LXQsdCw0LvQsHzQt9Cw0LXQsdCw0LvQvnzQv9C+0LXQsdC10L3RjHzRhdGD0ZHQstC+0LPQvnxhK3NzK1xXKmZ1XHcqfGMob3xhaHxhdyljP2t8ZFtpbF0rKGNrfGtjKXxiK2krYSp0K2MraCt8YnV0dFxXKmZ1XHcqfGN1bW0oZXJ8aW5nKXxmW3Z1XStoKmNcdyp8Zlt2dV0raCpxXHcqfHNoK2krW2FlXSt0K3zQsNGF0YPQtdC70Lh80LXQsdCw0L3QsNGPfNC10LHQsNC90L7QtXzQtdCx0LDQvdC+0Ll80LXQsdCw0L3Rg9GOfNC10LHQsNC90YvQtXzQtdCx0LDQvdGL0Ll80LXQsdCw0L3Ri9C8fNC10LHQsNC90YvRhXzQtdCx0YPRh9C40Ll80L/QuNC30LTQtdC2fNC/0LjQt9C00LXRhnzRgdGA0LDQvdCw0Y980YPRkdCx0LjRidCwfNGD0ZHQsdC40YnQtXzRhdGD0LXRgdC+0YF80YXRg9C10YLQvtC5fNGF0YPQudC90ZHQuXzRhdGD0ZHQstCw0Y980YXRg9GR0LLRi9C5fOS9oOWmiOatu+S6hnzlpojnmoTkuKrpgLx85oiR5piv5YK76YC8fGMrdStuK3QrXHcqfGQraStjK2srcyp8ZnXigI5ja2luZ3zQsdC70Y/QtNGMfNCx0LvRj9GC0Yx80LTQvtGF0YPRj3zQtNGA0L7Rh9C4fNC10LHQsNC70L580LXQsdCw0YLRjHzQvTTQtdCxNNC7fNC90LDRhdGD0Ll80L3QsNGF0YPRj3zQvdC10YXRg9C5fNC90LjRhdGD0Y980L/QuNC30LTQtXzQv9C40LfQtNGDfNC/0L7RhdGD0Ll80YPQtdCx0ZHRgnzRhdGD0LXRgtCwfNGF0YPQtdGC0YN80YXRg9C50L3QuHzRhdGD0LnQvdGOfNGF0YPQudC90Y980YjQu9GO0YXQuHzRkdCx0LDQvdGLfGErc2hvbGVzP3xzaCtlK2krdCt85pON5L2g5aaIfOaTjeS9oOWmuXzogo/kvaDlpoh80LDRhdGD0LV80LXQsdCw0Lt80LXQsdGD0YJ80YHRg9C60LB80YXRg9GP0Lx80YjQu9GO0YV8RlwuVVwuQ1wuS3xjaG9kZXM/fGN1bXNob3R8ZnVja2luZ3xmdeKAjmNrfHNoaXRcdyp8c2h0cG9zdHx3aG8rcmU/fGN1bWJhZ3xqZWJhbmV8dHdhdHM/fNCx0LvRj3zQtdCx0YN80YXRg9C4fNGF0YPQuXzRhdGD0Y985YK75bGEfOWCu+mAvHzmk43mrbt86Iet6YC8fGN1bXM/fGRhZnVxfGRp0YFrfHNoIGl0fGNvcSt8aG9yZXxrb2NrfG5tc2x8c2hhdHxkaWt8ZmNrfGt5c3xcdypmK3UrYytrK1x3Knxcdypm0YbRgdC6XHcqfFx3KnNo0ZZ0dHlcdyp8XHcqZl91Y19rXHcqfFx3KnB1c3N5XHcqfChhcGV8YmF0fGJ1bGw/fGJ1dHR8ZGlwfGRvZ3xkdW1ifGVib3xob2x5fGhvcnNlfGphY2t8cGVkb3xwaWd8dWJpKVxXKnNoKGl0fHRpKXM/fGRbaWxdKyhja3xrYylcVyooYXNzfGJhZ3xicmVhdGh8ZWF0fGZhY2V8ZmxpcHxoZWFkfGhvbGV8bGVzc3xzdWNrfHdlZWQpXHcqfGZbY2hqXT8oYXxhdXxhd3xlfG8rfHV8dXkpW2NoXSprKGU/ZHxlP3JzP3xbZWldP24rZz98dCl8bVthb3VdKGQrfHQrfHRofGh0fHopKGF8ZXxlcnxpcnx1cikoY3xmKWM/W2FvdV1jP2tcdyp8bVtvdV10aChhfGVyKShmfHBoKVt2dWVdK2M/W2drcXhdKyhlP2R8ZT9yfFtlaV0/bitnPyl8XHcqZlt2dV0raCpjK1toanZrXSooZT9kfGU/cnxbZWldP24rZz98dCl8YitpK2EqdCtjK2grKGUrZHxlKnI/W3N6XSt8W2VpXT9uK2c/fHkpfFx3KmZbdnVdK2M/W3hrcV0rKGU/ZHxlP3J8W2VpXT9uK2c/fHQpfHAob28rfHUrKXMrKGEreSt8ZSt8ZWh8ZXl8aSt8aWV8eSspcyp8bVtvdV10aChhfGVyKShmfHBoKVt2dWVdK2M/W2drcXhdK3xcdypmW3Z1XStoKnEoZT9kfGU/cnxbZWldP24rZz98dCl8ZltjaGpdPyhhfGF1fGF3fGV8byt8dXx1eSlbY2hdKmt8Zltja10rKGU/ZHxlP3J8W2VpXT9uK2c/fHQpfGZ186CAofOggKFja2nzoICh86CAoW5nfGR1bWIoZnxwaClbdnVdK2M/W3hrcV18YyhvYz98YXcpa1xXKnN1Yz9rXHcqfGRbaWxdKyhja3xrYykoZWR8aW5nKXxwaFt2dV0raCpjK1toanZrXSpcdyp8c29uXFcqb2ZcVyphXFcqYml0Y2h80LTQvtC70LHQvtC10LHQuNC30Lx8XHcqd2hvK3JlKGVkfGluZ3xzKXxjKG98YWh8YXcpYz9rKHN8ZWQpfHMraCtbaWx5XSt0K1tlcnN5XSp8YStzcytcVyp3P2hvbGU/XHcqfHBoW3Z1XStjP1t4a3FdK1x3KnzQs9C+0LLQvdC+0LXQtNC+0LJ80LTQvtC70LHQsNC10LHQvtCyfNC10LHQu9Cw0L3RgdC60LDRj3zQtdCx0LvQsNC90YHQutC40Ll80LfQsNC10LHRkdGI0YzRgdGPfNC30LDRhdGD0Y/Rh9C40LvQuHzQv9C40LTQsNGA0LDRgdC+0LJ80L/QuNC00LDRgNGB0LrQuNC5fNGB0YrQtdCx0LDRgtGM0YHRj3zRg9C10LHQsNC90YHQutC40Ll80YPQtdCx0LjRidGM0L3QvtC1fGZbdnVdK2M/W3hrcV0rXHcqfGJ1bGwrc2grW2lseV0rdCt8Z29kXFcqZGFtbj9cVyppdHzQsNGF0YPQtdC90L3QsNGPfNCw0YXRg9C10L3QvdGD0Y580LDRhdGD0LXQvdC90YvQuXzQstGL0LXQsdCw0L3QvtC1fNC10LHQsNC90L3QvtC80YN80LXQsdCw0L3Rg9GC0YvQtXzQtdCx0LvQsNC90LDQvNC4fNC/0LjQtNCw0YDQsNGB0Yt80YPRkdCx0LjRidC90LDRj3zRg9GR0LHQuNGJ0L3Ri9C5fGdvZFxXKmRhbW4/XHcqfNCy0YrQtdCx0LDQu9C4fNCy0YrQtdCx0LDRgtGMfNC10LHQsNC90L3QsNGPfNC10LHQsNC90L3QvtC1fNC10LHQsNC90L3Ri9GFfNC10LHQsNC90L7Qs9C+fNC10LHQsNC90YzQutC4fNC10LHQvtC90L3QvtC1fNC30LDQtdCx0LDQu9CwfNC30LDQtdCx0LDQu9C+fNC/0L7QtdCx0LXQvdGMfNGF0YPRkdCy0L7Qs9C+fGErc3MrXFcqZnVcdyp8YyhvfGFofGF3KWM/a3xkW2lsXSsoY2t8a2MpfGIraSthKnQrYytoK3xidXR0XFcqZnVcdyp8Y3VtbShlcnxpbmcpfGZbdnVdK2gqY1x3KnxmW3Z1XStoKnFcdyp8c2graStbYWVdK3QrfNCw0YXRg9C10LvQuHzQtdCx0LDQvdCw0Y980LXQsdCw0L3QvtC1fNC10LHQsNC90L7QuXzQtdCx0LDQvdGD0Y580LXQsdCw0L3Ri9C1fNC10LHQsNC90YvQuXzQtdCx0LDQvdGL0Lx80LXQsdCw0L3Ri9GFfNC10LHRg9GH0LjQuXzQv9C40LfQtNC10LZ80L/QuNC30LTQtdGGfNGB0YDQsNC90LDRj3zRg9GR0LHQuNGJ0LB80YPRkdCx0LjRidC1fNGF0YPQtdGB0L7RgXzRhdGD0LXRgtC+0Ll80YXRg9C50L3RkdC5fNGF0YPRkdCy0LDRj3zRhdGD0ZHQstGL0Ll85L2g5aaI5q275LqGfOWmiOeahOS4qumAvHzmiJHmmK/lgrvpgLx8Yyt1K24rdCtcdyp8ZCtpK2MraytzKnxmdeKAjmNraW5nfNCx0LvRj9C00Yx80LHQu9GP0YLRjHzQtNC+0YXRg9GPfNC00YDQvtGH0Lh80LXQsdCw0LvQvnzQtdCx0LDRgtGMfNC9NNC10LE00Lt80L3QsNGF0YPQuXzQvdCw0YXRg9GPfNC90LXRhdGD0Ll80L3QuNGF0YPRj3zQv9C40LfQtNC1fNC/0LjQt9C00YN80L/QvtGF0YPQuXzRg9C10LHRkdGCfNGF0YPQtdGC0LB80YXRg9C10YLRg3zRhdGD0LnQvdC4fNGF0YPQudC90Y580YXRg9C50L3Rj3zRiNC70Y7RhdC4fNGR0LHQsNC90Yt8YStzaG9sZXM/fHNoK2UraSt0K3zmk43kvaDlpoh85pON5L2g5aa5fOiCj+S9oOWmiHzQsNGF0YPQtXzQtdCx0LDQu3zQtdCx0YPRgnzRgdGD0LrQsHzRhdGD0Y/QvHzRiNC70Y7RhXxGXC5VXC5DXC5LfGNob2Rlcz98Y3Vtc2hvdHxmdWNraW5nfGZ14oCOY2t8c2hpdFx3KnxzaHRwb3N0fHdobytyZT98Y3VtYmFnfGplYmFuZXx0d2F0cz980LHQu9GPfNC10LHRg3zRhdGD0Lh80YXRg9C5fNGF0YPRj3zlgrvlsYR85YK76YC8fOaTjeatu3zoh63pgLx8Y3Vtcz98ZGFmdXF8ZGnRgWt8c2ggaXR8Y29xK3xob3JlfGtvY2t8bm1zbHxzaGF0fGRpa3xmY2t8a3lzfFx3KmYrdStjK2srXHcqfFx3KmbRhtGB0Lpcdyp8XHcqc2jRlnR0eVx3KnxcdypmX3VjX2tcdyp8XHcqcHVzc3lcdyp8Hwjvu7/Qv9C10LTQtdGA0LDRgdGC0LjRh9C10YHQutC40Ll80L7QtNC90L7QtNGL0YDQvtGH0L3QuNC60Lh80L/QtdC00LXRgNCw0YHRgtC40L3QsHzQv9C40L3QtNC+0YHRgtCw0L3RhtGLfNCz0L7QstC90L7RgdC10YDQutCwfNC20LjQstC+0LPQu9C+0YLQutCwfNC/0LXQtNC10YDQsNGB0YLQuNGPfNGD0YHQutC+0LPQu9Cw0LfRi9C5fNGH0LXRgNC90L7QttC+0L/Ri9C1fNGH0LXRgNC90L7QttC+0L/Ri9C5fNGH0LXRgNC90L7Qt9Cw0LTRi9C5fNGH0LXRgNC90L7QvNCw0LfRi9C5fNCw0LfRg9GA0L7QtdCx0LDQvHzQtNC10LPQtdC90LXRgNCw0YJ80L/QuNC00L7RgNCw0YHQutCwfNC/0LjQvdC00L7RgdGC0LDQvXzQs9C+0LLQvdC+0LzQtdGBfNC30LjQs9GF0LDQudC70Yx80L/QtdC00LXRgNCw0YHQuHzQv9C10LTQtdGA0LDRgdGCfNC/0LXQtNC10YDRg9Cz0LB80L/QuNC00LDRgNCw0YHRi3zQv9C40L3QtNC+0YHQvtCyfNGH0LXRgNC90L7QttC+0L980YfQtdGA0L3QvtC30LDQtHzRh9C10YDQvdC+0LzQsNC3fNCw0LfRg9GA0L7QtdCxfNCz0L7QstC90L7RkdCxfNCz0L7QvNC+0YHQtdC6fNC00L7Qu9Cx0LDQtdCxfNC20LjQtNC+0LLQvdGPfNC+0L/QtdC30LTQsNC7fNC/0LXQtNC10YDQsNGBfNC/0LXQtNC40LrQvtCyfNC/0LXQtNC+0LHQuNGAfNC/0LXQtNGA0LjQu9CwfNC/0LXQtNGA0LjQu9C+fNC/0LjQtNCw0YDQsNGBfNC/0LjQtNGA0LjQu9C+fNC/0LjQvdC00L7RgdGLfNGG0LjQs9Cw0L3QuNC9fNC/0LjQtNC+0YBcdyp80LLQvtC70L7QtdCxfNC00LDRg9C90LjRgnzQttC40LTRj9GA0LB80L3QuNCz0LPQtdGAfNC/0LXQtNC40LrQuHzQv9C10LTRgNC40Lt80L/QuNC00LDRgNCzfNC/0LjQtNCw0YDRi3zQv9C40LTQvtGA0Yt80L/QuNC00YDQuNC6fNC/0LjQtNGA0LjQu3zQv9C40L3QtNC+0YF80YHRg9GH0LDRgNCwfNGB0YPRh9Cw0YDRi3zRg9C10LHQsNC90Yt80YXQsNGH0LDQvNC4fNCz0L7QvNC40Lp80LPQvtC80L7RgXzQttC40LTQsNC8fNC20LjQtNCw0YV80LbQuNC00L7QsnzQttC40LTRj9GAfNC60LDQu9C40Yd80LrRg9GA0LLQsHzQvdC40LPQs9CwfNC90LjQs9C10YB80L3QuNCz0YDQvnzQv9C10LTQuNC6fNC/0LjQtNCw0YB80L/QuNC00LXRgHzRgdGD0LrQvtC5fNGD0LXQsdCw0Lp80YPQtdCx0LjRiXzRg9C10LHQutC4fNGF0LDRh9Cw0Lx80YXQsNGH0LDRgHzRhdCw0YfQsNGFfNGF0LDRh9C10Ll80YXQsNGH0LjQunzRhdCw0YfQuNC7fNGF0LDRh9C+0Lx80L8r0LTQsNGAfGXQsdC7YdC9fNC20LjQtNCwfNC20LjQtNC1fNC20LjQtNGDfNC/0LXQtNGAfNC/0LjQtNGAfNGB0YPQutCwfNGB0YPQutC4fNGF0LDRh9CwfNGF0LDRh9C1fNGF0LDRh9C4fNGH0YPRgNC6fHBpZGFyYXN8cGlkb3Jhc3zQttC40LR80YXQsNGHfHBlZGlrfHBpZGFyfHBpZG9yfGN5a2F8cGlkb3xzdWthfFx3KtCy0YvQsdC70Y/QtNC6XHcqfFx3KtC00LDQu9Cx0LDQtdCxXHcqfFx3KtC00L7Qu9Cx0LDRkdCxXHcqfFx3KtC00L7Qu9Cx0L7QtdCxXHcqfFx3KtC00L7Qu9Cx0L7RkdCxXHcqfFx3KtC/0LjQtNGA0LjQu9CwXHcqfFx3KtGF0YNl0L/Qu9C10YJcdyp8XHcq0LRv0LvQsWHRkdCxXHcqfFx3KtC+0YHQu9Cw0LXQsVx3KnxcdyrRg2XQsWHQvVx3Knxcdypkb2xiYWViXHcqfFx3Knh5ZWNvY1x3KilcYg=="
+		"CTextFilterStore_strCleanPattern_1514243495"		"KDEpXihcYihrb21wZXRlbnp0ZWFtfOa0vumAgeWRmHxwaW5lZ3JvdmV8blwuZVwuaWdcLmVcLnxmdWt1c2hpbWF8c25pZ2dlcnxuaWUgZ2VlfGZ1a3Vva2F8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqZmFrKGVkfGVycz98aW5nKXxrb21wZXRlbnp0ZWFtfOa0vumAgeWRmHxwaW5lZ3JvdmV8blwuZVwuaWdcLmVcLnxmdWt1c2hpbWF8c25pZ2dlcnxuaWUgZ2VlfGZ1a3Vva2F8ZnVjaHNpYXxmdWNoaWFufGNvY2tcLmxpfHBodWtldHxmdXhpdXN8ZnVjdXJvfG5pZWdvfG5pZWJvfG5laWdlfG5lZ2d5fG5lYmJ5fGZ1eGlzfGN3ZmFnfHB1Ymd8bmlieXxuZWJ1fG5lYm98ZnVrdXxmdWtpfGZha3R8ZzI0fGZjcnxcdypmdmNodm9cdyopXGIpJA=="
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":578080,\"rgAccountIDs\":[1699187729],\"totalFriends\":1},{\"appid\":304930,\"rgAccountIDs\":[1634046864],\"totalFriends\":1},{\"appid\":2200650,\"rgAccountIDs\":[1699187729],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[1634046864],\"totalFriends\":1},{\"appid\":2923300,\"rgAccountIDs\":[1634046864,1699187729],\"totalFriends\":2},{\"appid\":480,\"rgAccountIDs\":[1634046864,1699187729],\"totalFriends\":2}],\"lastFetchTimeMS\":1719804687988}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1719545942,\"appids\":[1721470,236390,1712830]},\"rgIgnoredApps\":[]}"
+		"ChatStorePopupState_1514243495"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"FriendStoreLocalPrefs_1514243495"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"UserAppConfig"
+	{
+		"322170"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"228980"		"0055736572436f6e6669670001426574614b6579007075626c6963000808"
+	}
+	"RecentLocalPlayedGameIDs"		"7aea0400000000001c23826632363533"
+	"CloudKey"		"010000006befe7e859d0c804d14dba503b9ae7b8fc1812b6f65a656b1bdc45b41d77cf2fdbf70205"
+	"CloudKeyCRC"		"1170507838"
+}

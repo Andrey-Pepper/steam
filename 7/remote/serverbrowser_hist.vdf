@@ -1,0 +1,66 @@
+"Filters"
+{
+	"favorites"
+	{
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"46.174.51.137:7777"
+			"address"		"46.174.51.137:7777"
+			"LastPlayed"		"1713064471"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"193.34.212.90:27015"
+			"address"		"193.34.212.90:27015"
+			"LastPlayed"		"1713102595"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"3"
+		{
+			"name"		"192.168.44.1:27015"
+			"address"		"192.168.44.1:27015"
+			"LastPlayed"		"1713004008"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"4"
+		{
+			"name"		"62.122.215.105:6666"
+			"address"		"62.122.215.105:6666"
+			"LastPlayed"		"1713005700"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"5"
+		{
+			"name"		"46.174.52.172:1488"
+			"address"		"46.174.52.172:1488"
+			"LastPlayed"		"1713063611"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"6"
+		{
+			"name"		"194.93.2.243:27015"
+			"address"		"194.93.2.243:27015"
+			"LastPlayed"		"1713064589"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"7"
+		{
+			"name"		"192.168.101.12:27015"
+			"address"		"192.168.101.12:27015"
+			"LastPlayed"		"1716377145"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+	"lastupdate"		"1719743722"
+}
